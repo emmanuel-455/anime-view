@@ -12,7 +12,7 @@ function Footer() {
         className="object-contain"
       />
       <div className="flex items-center gap-6">
-        <a href="https://www.instagram.com/arinzee_chukwu/">
+        <a href="https://www.instagram.com/arinzee_chukwu/" target="_blank">
         <Image
           src="./instagram.svg"
           alt="logo"
@@ -21,7 +21,7 @@ function Footer() {
           className="object-contain"
         />
         </a>
-        <a href="https://twitter.com/priestnuel4">
+        <a href="https://twitter.com/priestnuel4" target="_blank">
         <Image
           src="./twitter.svg"
           alt="logo"
