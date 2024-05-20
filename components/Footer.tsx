@@ -12,13 +12,7 @@ function Footer() {
         className="object-contain"
       />
       <div className="flex items-center gap-6">
-        <Image
-          src="./tiktok.svg"
-          alt="logo"
-          width={19}
-          height={19}
-          className="object-contain"
-        />
+        <a href="https://www.instagram.com/arinzee_chukwu/">
         <Image
           src="./instagram.svg"
           alt="logo"
@@ -26,6 +20,8 @@ function Footer() {
           height={19}
           className="object-contain"
         />
+        </a>
+        <a href="https://twitter.com/priestnuel4">
         <Image
           src="./twitter.svg"
           alt="logo"
@@ -33,6 +29,7 @@ function Footer() {
           height={19}
           className="object-contain"
         />
+       </a>
       </div>
     </footer>
   );
